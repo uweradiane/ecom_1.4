@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1> registrement</h1>
-    
+
 <a href="...index.php"> Retour Accueil</a></br>
 <form method="post" action="./login.php">
 <label for="user_name">Nom d'utulisateur</label>
@@ -15,6 +15,14 @@
 
 <label for="user_name">mon de passse</label>
 <input id="password" name="password" type="password">
+
+<input id="Submit" name="Submit" type="password" placeholder ="Submit">
+
+
+
+
+
+
 
 
 
